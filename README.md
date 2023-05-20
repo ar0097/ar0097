@@ -27,7 +27,7 @@ I am a passionate front-end developer with a love for creating visually appealin
 
 ### Project 3: Gallery App Using ReactJS
 - Description: A simple Gallery application built with ReactJS.
-- Repository: [Gallery App](https://codesandbox.io/s/geekgallery-iiqsk7)
+- CodesandBox: [Gallery App](https://codesandbox.io/s/geekgallery-iiqsk7)
 
 ## Education
 
