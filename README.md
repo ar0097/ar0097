@@ -49,5 +49,5 @@ In summary, my next steps are:
 
 - <a href="mailto:arbazshah7454@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email Icon" width="24px" style="display: inline;"></a>
 - <a href="https://www.freecodecamp.org/arbaz5195"><img src="https://cdn.rawgit.com/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="FreeCodeCamp Icon" width="24px" style="display: inline;"></a>
-- <a href="https://www.linkedin.com/in/arbaz-shah-3429201b1/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="LinkedIn Icon" width="24px" style="display: inline;"></a>
+- <a href="https://www.linkedin.com/in/arbaz-shah/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="LinkedIn Icon" width="24px" style="display: inline;"></a>
 - <a href="https://leetcode.com/arbazshah7454/"><img src="https://camo.githubusercontent.com/cfd77c4e980c9d5427685bc40c1da3d602fb77992ebabc9cdd814685f58de10a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c656574636f64652e737667" alt="LeetCode Icon" width="24px" style="display: inline;"></a>
