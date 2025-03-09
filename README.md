@@ -1,53 +1,62 @@
-## About Me 🎓
+<h1 align="center">Hi there, I'm Shah Arbaz 👋</h1>
+<p align="center">
+  <img src="https://github.com/shaharbaz.png" width="200" alt="Profile Image">
+</p>
 
-I am a passionate front-end developer with a love for creating visually appealing and user-friendly interfaces. My expertise lies in HTML, CSS, and JavaScript, and I enjoy keeping up with the latest web development trends and technologies.
+## 🚀 About Me
+- 👨‍💻 Frontend Developer | ReactJS | Tailwind CSS | JavaScript
+- 🎓 Bachelor's in Computer Science & Engineering
+- 🌱 Currently learning **Shopify Development & Cybersecurity**
+- 💡 Exploring AI-powered development tools for frontend projects
+- 📌 Passionate about creating intuitive UI/UX experiences
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF Image" width="500px">
-</div>
+---
 
-## Skills
+## 🛠️ Tech Stack
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Git
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## Projects
+---
 
+## 📌 Projects
+🔹 **[YouTube Clone](https://github.com/shaharbaz/youtube-clone)** – ReactJS, MUI, YouTube API  
+🔹 **[E-commerce Website](https://github.com/shaharbaz/ecommerce-site)** – React, Tailwind CSS  
+🔹 **[Instagram Clone](https://github.com/shaharbaz/insta-clone)** – React, Node.js  
 
-### Project 1: Todo App
-- Description: A simple todo application built with vanilla javascript.
-- Repository: [Todo App](https://github.com/ar0097/mytodoapp)
+---
 
-### Project 2: My First Website using ReactJS
-- Description: My First website showcasing my projects and skills.
-- Repository: [My First Website](https://github.com/ar0097/textUtilsapp)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaharbaz&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharbaz&theme=radical" width="400">
+</p>
 
-### Project 3: Gallery App Using ReactJS
-- Description: A simple Gallery application built with ReactJS.
-- Repository: [Gallery App](https://github.com/ar0097/GeekGallery)
+---
 
-## Education
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaharbaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shaharbaz@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://portfolio-shaharbaz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-- B.Tech in Computer Science and Engineering, DBATU University.
+---
 
-## What I Want to Do Next
-
-I'm eager to dive deeper into competitive programming as I believe the sky is the limit in this field. I'm committed to honing my skills and solving challenging problems on platforms like LeetCode.
-
-I have a special passion for hackathons, where I can collaborate with like-minded individuals to create innovative solutions within a limited timeframe. The adrenaline rush and the opportunity to think outside the box fuel my motivation.
-
-In summary, my next steps are:
-
-- Engage in more competitive programming to continuously enhance my skills and push my limits.
-- Participate in hackathons and explore opportunities to solve real-world problems through creative and innovative solutions.
-
-
-## Contact
-
-- <a href="mailto:arbazshah7454@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email Icon" width="24px" style="display: inline;"></a>
-- <a href="https://www.freecodecamp.org/arbaz5195"><img src="https://cdn.rawgit.com/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="FreeCodeCamp Icon" width="24px" style="display: inline;"></a>
-- <a href="https://www.linkedin.com/in/arbaz-shah/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="LinkedIn Icon" width="24px" style="display: inline;"></a>
-- <a href="https://leetcode.com/arbazshah7454/"><img src="https://camo.githubusercontent.com/cfd77c4e980c9d5427685bc40c1da3d602fb77992ebabc9cdd814685f58de10a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c656574636f64652e737667" alt="LeetCode Icon" width="24px" style="display: inline;"></a>
+⭐ **Feel free to check out my repositories and contribute!** 🚀  
