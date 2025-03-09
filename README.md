@@ -35,8 +35,8 @@ I have completed **B.Tech in Computer Science & Engineering**, and I specialize 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arbaz5195/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18cYEV4g8f/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arbazshah7454/)  
+**Email:** [![Email](mailto:arbazshah7454@gmail.com) 
 
-📧 **Email:** [arbazshah7454@gmail.com](mailto:arbazshah7454@gmail.com)  
 
 ---
 
