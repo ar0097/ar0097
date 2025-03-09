@@ -15,10 +15,10 @@ I have completed **B.Tech in Computer Science & Engineering**, and I specialize 
 
 ### 📌 Projects  
 
-🔹 **[E-commerce Website](https://github.com/ar0097/E-comm)** – Built with React, Tailwind, react-icons and Firebase
+🔹 **[E-commerce Website](https://github.com/ar0097/E-comm)** – Built with React, Tailwind, react-icons and Firebase <br />
 **🔗 Live Demo:** [e-comm-xi-ochre.vercel.app](https://e-comm-xi-ochre.vercel.app/)  
 
-🔹 **[YouTube Clone](https://github.com/ar0097/youtube_clone)** – Implemented using React, MUI, YouTube Rapid API, Axios and Firebase
+🔹 **[YouTube Clone](https://github.com/ar0097/youtube_clone)** – Implemented using React, MUI, YouTube Rapid API, Axios and Firebase <br />
 **🔗 Live Demo:** [youtube-clone-one-lemon.vercel.app](https://youtube-clone-one-lemon.vercel.app/)  
 
 🔹 **[Pizza Ordering Website](https://github.com/ar0097/OrderPizza)** – Developed a responsive UI for seamless ordering  
