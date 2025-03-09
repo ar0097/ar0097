@@ -19,7 +19,7 @@ I have completed **B.Tech in Computer Science & Engineering**, and I specialize 
 **🔗 Live Demo:** [e-comm-xi-ochre.vercel.app](https://e-comm-xi-ochre.vercel.app/)  
 
 🔹 **[YouTube Clone](https://github.com/ar0097/youtube_clone)** – Implemented using React, MUI, YouTube Rapid API, Axios and Firebase
-**🔗 Live Demo:** [tube-clone-one-lemon.vercel.app](https://tube-clone-one-lemon.vercel.app/)  
+**🔗 Live Demo:** [tube-clone-one-lemon.vercel.app](https://youtube-clone-one-lemon.vercel.app/)  
 
 🔹 **[Pizza Ordering Website](https://github.com/ar0097/OrderPizza)** – Developed a responsive UI for seamless ordering  
 **🔗 Live Demo:** [order-pizza-lrurk9vex-ar0097.vercel.app](https://order-pizza-lrurk9vex-ar0097.vercel.app/)  
