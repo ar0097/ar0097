@@ -24,7 +24,7 @@ I have completed **B.Tech in Computer Science & Engineering**, and I specialize 
 🔹 **[Pizza Ordering Website](https://github.com/ar0097/OrderPizza)** – Developed a responsive UI for seamless ordering  
 **🔗 Live Demo:** [order-pizza-lrurk9vex-ar0097.vercel.app](https://order-pizza-lrurk9vex-ar0097.vercel.app/)  
 
-🔹 **[Portfolio](https://github.com/ar0097/my-portfolio)** – Showcasing my skills and projects  
+🔹 **[Portfolio](https://github.com/ar0097/showcase-my-universe)** – Showcasing my skills and projects  
 **🔗 Live Demo:** [showcase-my-universe.vercel.app](https://showcase-my-universe.vercel.app/))  
 
 ---
