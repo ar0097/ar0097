@@ -25,7 +25,7 @@ I have completed **B.Tech in Computer Science & Engineering**, and I specialize 
 **🔗 Live Demo:** [order-pizza-lrurk9vex-ar0097.vercel.app](https://order-pizza-lrurk9vex-ar0097.vercel.app/)  
 
 🔹 **[Portfolio](https://github.com/ar0097/my-portfolio)** – Showcasing my skills and projects  
-**🔗 Live Demo:** [alshah-portfolio.netlify.app](https://alshah-portfolio.netlify.app/)  
+**🔗 Live Demo:** [showcase-my-universe.vercel.app](https://showcase-my-universe.vercel.app/))  
 
 ---
 
